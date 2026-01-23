@@ -32,11 +32,11 @@ Best practices for scalable code structure and separation of concerns.
 ```
 Core Technologies
 - Languages: PHP, JavaScript, TypeScript, HTML5, CSS3, SQL
-- Frameworks: Laravel 10, React 18, Next.js
+- Frameworks: Laravel 9+, React 18, Next.js
 - Database: MySQL
 
 Frontend Development
-- React: Hooks, Custom Hooks, Context API, Redux, Zustand
+- React: Hooks, Custom Hooks, Scope Context, Context API, Redux, Zustand
 - Styling: TailwindCSS, Bootstrap 5
 - Performance: Code-splitting, Lazy Loading, Memoization
 
@@ -46,7 +46,7 @@ Backend Development
 - Database: Query optimization, Indexing, Eager loading
 
 Deployment & Tools
-- Platforms: Vercel, Netlify, Linux servers
+- Platforms: Vercel, Netlify, cPanel, Git-Development
 - Version Control: Git (workflows, code reviews)
 - Build Tools: Vite, Webpack, npm, Composer
 ```
