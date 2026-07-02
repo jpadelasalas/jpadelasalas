@@ -11,6 +11,10 @@ Full-Stack Developer specializing in **Laravel** and **React** with **TypeScript
 
 ## 🚀 Featured Projects
 
+### [ReleaseLens]([link-to-repo](https://github.com/jpadelasalas/releaselens))
+Engineering analytics platform that transforms GitHub pull request activity into actionable delivery insights. Track review turnaround, merge performance, repository health, and workflow bottlenecks through interactive dashboards designed for engineering teams.
+**Tech:** Laravel, React, PostgreSQL, Recharts, GitHub API, Laravel Queues
+
 ### [Mini ERP]([link-to-repo](https://github.com/jpadelasalas/mini-erp-pat))
 Business management platform with real-time analytics (Will convert to typescript)
 **Tech:** Laravel, React, MySQL, Chart.js
